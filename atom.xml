@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zkezyy.club</id>
     <title>ZYY</title>
-    <updated>2020-06-29T13:42:42.853Z</updated>
+    <updated>2020-06-29T14:01:58.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zkezyy.club"/>
     <link rel="self" href="https://zkezyy.club/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://zkezyy.club/images/avatar.png</logo>
     <icon>https://zkezyy.club/favicon.ico</icon>
     <rights>All rights reserved 2020, ZYY</rights>
