@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zkezyy.club</id>
     <title>ZYY</title>
-    <updated>2020-06-30T06:15:35.905Z</updated>
+    <updated>2020-06-30T06:17:28.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zkezyy.club"/>
     <link rel="self" href="https://zkezyy.club/atom.xml"/>
     <logo>https://zkezyy.club/images/avatar.png</logo>
     <icon>https://zkezyy.club/favicon.ico</icon>
     <rights>All rights reserved 2020, ZYY</rights>
+    <entry>
+        <title type="html"><![CDATA[hjz]]></title>
+        <id>https://zkezyy.club/post/hjz/</id>
+        <link href="https://zkezyy.club/post/hjz/">
+        </link>
+        <updated>2020-06-30T06:16:53.000Z</updated>
+        <content type="html"><![CDATA[<p>hjzhjzhjzhjz</p>
+]]></content>
+    </entry>
 </feed>
